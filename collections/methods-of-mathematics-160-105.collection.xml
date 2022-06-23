@@ -1,0 +1,117 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col29228</md:content-id>
+    <md:title>Methods of Mathematics - 160.105</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>27171ff8-68ec-4a00-9df9-1e78cb984fef</md:uuid>
+<md:slug>methods-of-mathematics-160-105</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Numbers and Linear Equations in One Variable</md:title>
+      <col:content>
+        <col:module document="m51240"/>
+        <col:module document="m51239"/>
+        <col:module document="m51252"/>
+        <col:module document="m51253"/>
+        <col:module document="m51254"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Systems of Equations</md:title>
+      <col:content>
+        <col:module document="m49418"/>
+        <col:module document="m49420"/>
+        <col:module document="m49419"/>
+        <col:module document="m49434"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Algebraic Manipulations</md:title>
+      <col:content>
+        <col:module document="m60186"/>
+        <col:module document="m51241"/>
+        <col:module document="m51242"/>
+        <col:module document="m51246"/>
+        <col:module document="m51247"/>
+        <col:module document="m51248"/>
+        <col:module document="m51256"/>
+        <col:module document="m51258"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Functions</md:title>
+      <col:content>
+        <col:module document="m51260"/>
+        <col:module document="m51261"/>
+        <col:module document="m51262"/>
+        <col:module document="m51265"/>
+        <col:module document="m51266"/>
+        <col:module document="m51267"/>
+        <col:module document="m51268"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Polynomial Functions</md:title>
+      <col:content>
+        <col:module document="m51269"/>
+        <col:module document="m51270"/>
+        <col:module document="m51271"/>
+        <col:module document="m51274"/>
+        <col:module document="m51275"/>
+        <col:module document="m51276"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exponential and Logarithmic Functions</md:title>
+      <col:content>
+        <col:module document="m49356"/>
+        <col:module document="m49361"/>
+        <col:module document="m49362"/>
+        <col:module document="m49363"/>
+        <col:module document="m49364"/>
+        <col:module document="m49365"/>
+        <col:module document="m49366"/>
+        <col:module document="m49367"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Trigonometry</md:title>
+      <col:content>
+        <col:module document="m51282"/>
+        <col:module document="m51283"/>
+        <col:module document="m51284"/>
+        <col:module document="m49404"/>
+        <col:module document="m49405"/>
+        <col:module document="m51285"/>
+        <col:module document="m49387"/>
+        <col:module document="m49390"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Derivatives</md:title>
+      <col:content>
+        <col:module document="m53494"/>
+        <col:module document="m51263"/>
+        <col:module document="m53573"/>
+        <col:module document="m53575"/>
+        <col:module document="m53576"/>
+        <col:module document="m53578"/>
+        <col:module document="m53581"/>
+        <col:module document="m53586"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Applications of Derivatives and Antiderivatives</md:title>
+      <col:content>
+        <col:module document="m53602"/>
+        <col:module document="m53611"/>
+        <col:module document="m53613"/>
+        <col:module document="m53621"/>
+        <col:module document="m53697"/>
+        <col:module document="m53631"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
